@@ -1,5 +1,3 @@
-
-import { useState, useEffect } from 'react';
 import Layout from "../components/layouts/Layout";
 import Hero from '../components/sections/Hero/index';
 
@@ -8,7 +6,6 @@ function Home() {
 		<>
 			<Layout>
 				<Hero />
-				<br />
 			</Layout >
 		</>
 	);
