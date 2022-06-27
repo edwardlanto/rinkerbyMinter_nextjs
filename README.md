@@ -1,5 +1,5 @@
-[Screen Shot 2022-06-27 at 7 45 00 AM](https://user-images.githubusercontent.com/20784807/175985649-9ba590a8-d0e0-4f5f-938b-6a157ad35b56.png)
-# nft-minter
+![alt text](https://user-images.githubusercontent.com/20784807/175985649-9ba590a8-d0e0-4f5f-938b-6a157ad35b56.png)
+# Ethereum NFT NMinter
 A Nextjs App coupled with hardhat to create an Ethereum NFT Minter. 
 
 ### **Heads up! ⚠** 
